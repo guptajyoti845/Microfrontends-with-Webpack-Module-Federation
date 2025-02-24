@@ -1,4 +1,4 @@
-# run-time-microfrontend-integration setup
+# Run-time-microfrontend-integration setup
 
 This project demonstrates a run-time microfrontend integration approach using React. It consists of two separate React applications:
 
